@@ -1,0 +1,17 @@
+body {
+  font-family: verdana, sans-serif;
+  color: green;
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+  font-size: 50pt;
+
+}
+
+
+
+img {
+    display: inline-block;
+}

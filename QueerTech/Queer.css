@@ -1,0 +1,44 @@
+
+body {
+  font-family: verdana, sans-serif;
+  font-style:normal;
+  color: green;
+  text-align: center;
+
+}
+
+h1 {
+  color: pink;
+  font-size: 50pt;
+}
+
+
+
+img {
+    display: inline-block;
+}
+
+
+.nav {
+  list-style-type: none;
+  margin: 0pt;
+  padding: 0pt;
+  overflow: hidden;
+  text-align: center;
+}
+
+li.nav a {
+  display: block;
+  background-color: yellow;
+  margin: 10pt;
+  padding: 10pt
+
+}
+
+li.nav {
+  float: left;
+}
+
+li.nav a:hover {
+  background-color: pink;
+}
